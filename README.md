@@ -9,7 +9,7 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 - HTML 5
 - CSS3
 - Bootstrap
-- gitgitGit
+- git
 
 
 ### Autor
