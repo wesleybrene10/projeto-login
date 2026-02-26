@@ -14,3 +14,7 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 
 ### Autor
 [Wealey Brene Batista](www.linkedin.com/in/wesley-brene-batista)
+
+### descriação
+
+Projeto desenvolvido na disciplina de Programação Front-End na Unicesumar – Campus Londrina, sob orientação do professor [Leonardo Rocha](https://github.com/leonardossrocha), com foco na aplicação prática de Bootstrap e boas práticas de desenvolvimento web. O trabalho envolveu a adaptação do template Sign-in, tradução da interface para o português, documentação do código e implementação de um FAQ interativo, demonstrando atenção à experiência do usuário e organização profissional do projeto.
